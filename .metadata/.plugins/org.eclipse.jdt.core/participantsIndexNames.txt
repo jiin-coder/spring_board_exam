@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\programming\sources\exam\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4272662180.index
+\spring_exam\src\main\java
+C:\programming\sources\exam\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\454487057.index
+\spring_exam\src\main\java
