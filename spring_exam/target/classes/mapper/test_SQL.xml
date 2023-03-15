@@ -1,0 +1,8 @@
+<mapper namespace="com.study.project_name.test.TestDao"> 
+
+	<!-- select 를 실행할 select tag -->
+    <select id="getList" resultType="HashMap">
+        SELECT PK1, COLUMN1 FROM TEST
+    </select>
+
+</mapper>
